@@ -44,6 +44,6 @@ Dépannages, conception de systèmes "d'Appel malades"
 
 * Conception/Participation dans un projet communautaire de navigateur NexGen
 
-* Adaptation Web d'une jeu de société éducatif
+* Adaptation Web d'un jeu de société éducatif
 
 * Adaptation Web d'un jeu de société en CrowdFunding
